@@ -16,18 +16,6 @@ section {
 section p {
     padding-top: 20px;
 }
-aside {
-    display: inline-block;
-    position: absolute;
-    background-color: #ebebeb;
-    width: 445px;
-    height: 300px;
-    margin-top: 20px;
-    margin-left: 20px;
-}
-aside p {
-    padding-top: 20px;
-}
 article {
     background-color: #777;
     width: 465px;
@@ -46,6 +34,18 @@ article {
     width: 425px;
     height: 55px;
     margin-left: 20px;
+}
+aside {
+    display: inline-block;
+    position: absolute;
+    background-color: #ebebeb;
+    width: 445px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+aside p {
+    padding-top: 20px;
 }
 .clear {
     color: #ebebeb;
