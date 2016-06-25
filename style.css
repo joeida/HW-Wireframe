@@ -5,6 +5,7 @@ header,nav,footer {
     background-color: #ebebeb;
     width: 960px;
     height: 100px;
+    margin: auto;
 }
 section {
     display: inline-block;
@@ -12,6 +13,7 @@ section {
     width: 495px;
     height: 300px;
     margin-top: 20px;
+    margin-left: 231px;
 }
 section p {
     padding-top: 20px;
